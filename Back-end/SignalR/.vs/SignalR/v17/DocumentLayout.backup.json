@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|e:\\training\\dotnet\\dotnet_examples\\signalr_dotnetcore_reactjs\\signalr\\signalr_chatappbackend\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|solutionrelative:signalr_chatappbackend\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|e:\\training\\dotnet\\dotnet_examples\\signalr_dotnetcore_reactjs\\signalr\\signalr_chatappbackend\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|solutionrelative:signalr_chatappbackend\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|e:\\training\\dotnet\\dotnet_examples\\signalr_dotnetcore_reactjs\\signalr\\signalr_chatappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|solutionrelative:signalr_chatappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|e:\\training\\dotnet\\dotnet_examples\\signalr_dotnetcore_reactjs\\signalr\\signalr_chatappbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|solutionrelative:signalr_chatappbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|e:\\training\\dotnet\\dotnet_examples\\signalr_dotnetcore_reactjs\\signalr\\signalr_chatappbackend\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D26BF7-83F6-44FC-8200-C47FE8B2F1E1}|SignalR_ChatAppBackend\\SignalR_ChatAppBackend.csproj|solutionrelative:signalr_chatappbackend\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Dtos\\MessageDto.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatAppBackend\\Dtos\\MessageDto.cs",
+              "ToolTip": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Dtos\\MessageDto.cs",
+              "RelativeToolTip": "SignalR_ChatAppBackend\\Dtos\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:31:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatAppBackend\\Controllers\\MessageController.cs",
+              "ToolTip": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "SignalR_ChatAppBackend\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:30:40.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatAppBackend\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SignalR_ChatAppBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:29:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatAppBackend\\ChatHub.cs",
+              "ToolTip": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\ChatHub.cs",
+              "RelativeToolTip": "SignalR_ChatAppBackend\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:07:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR_ChatAppBackend\\Program.cs",
+              "ToolTip": "E:\\Training\\DOTNET\\DOTNET_Examples\\SignalR_DotnetCore_ReactJS\\SignalR\\SignalR_ChatAppBackend\\Program.cs",
+              "RelativeToolTip": "SignalR_ChatAppBackend\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:05:57.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

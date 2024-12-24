@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8j2HAYoPchvJAHlKJbhx9Ab2TyOFK04AuVA2u/jNQuE=",
+  "Source": "SignalR_ChatAppBackend",
+  "BasePath": "_content/SignalR_ChatAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

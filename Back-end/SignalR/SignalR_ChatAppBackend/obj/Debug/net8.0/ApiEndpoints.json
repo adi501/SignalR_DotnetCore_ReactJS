@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SignalR_ChatAppBackend.Controllers.MessageController",
+    "Method": "Post",
+    "RelativePath": "api/Message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "SignalR_ChatAppBackend.Dtos.MessageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalR_ChatAppBackend.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
